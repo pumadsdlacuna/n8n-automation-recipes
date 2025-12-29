@@ -1,6 +1,6 @@
 # Decision Log
 
-This file documents relevant decisions made during the evolution of this playbook.
-
 | Date | Decision | Rationale |
-|-----|---------|-----------|
+|------|---------|-----------|
+| 2025-01 | Focus on small reusable workflows | Easier maintenance and reuse |
+| 2025-01 | Business-first naming | Improves understanding across teams |
