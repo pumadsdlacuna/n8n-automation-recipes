@@ -1,5 +1,6 @@
 # Roadmap
 
-- [ ] Add glossary
-- [ ] Add real-world examples
-- [ ] Add diagrams
+- [ ] Add error-handling patterns
+- [ ] Add LLM-based workflows
+- [ ] Add finance & analytics automations
+- [ ] Add monitoring patterns
