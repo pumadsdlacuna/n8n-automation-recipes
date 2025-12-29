@@ -39,3 +39,13 @@ Cada receta se enfoca en claridad, mantenibilidad e impacto en el negocio.
 docs/        → Design principles and decisions
 examples/    → Automation recipes (use cases)
 assets/      → Diagrams and screenshots
+```
+---
+
+## What you will find here / Qué encontrarás aquí
+
+- Reusable n8n workflow patterns
+- Automation design principles
+- Error handling and retries
+- Integration examples (APIs, LLMs, files)
+- Real business automation use cases
